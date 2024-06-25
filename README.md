@@ -9,6 +9,11 @@
   - Conducted in-depth analysis with SQL and Python.
   - Created a Power BI dashboard for key insights.
 
+ **Power BI DashBoard:**
+![image](https://github.com/monuksk/Data-Exploration-For-Actionable-Business-Insights/assets/160057840/836a5eb4-fc74-4d9d-82b1-9a26aabf63eb)
+
+ 
+
 #### Key Insights:
 - **Geographical Trends:**
   - Maximum number of jobs are in Delhi.
